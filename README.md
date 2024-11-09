@@ -1,9 +1,9 @@
 # Bracket sequence from Tree
 
 ## Introduction
-This project implements a tree structure from a given Prüfer code, allowing for two main operations:
-1. Displaying all edges of the constructed tree.
-2. Generating a bracket sequence representation of the tree, starting from a specified root node.
+The input is the Prüfer code, and a node, of a tree. The program outputs:
+1. all edges of the tree.
+2. the bracket sequence corresponding to the tree and , starting from the node.
 
 ## Features
 - Construct tree from Prüfer code.
